@@ -15,24 +15,6 @@ Este projeto visa analisar o estilo de jogo de jogadores que atuam como junglers
 | `/dados_brutos/` | CSVs contendo dados crus ou estatísticas não utilizadas diretamente na API. |
 | `/logs/` | Arquivos de log de execução de testes, erros e coletas. |
 ---
-Trabalho Engenharia Social LoL/
-│
-├── README.md
-├── requirements.txt
-├── .gitignore
-├── api_site/
-│   ├── app.py
-│   ├── database.py
-│   ├── score_utils.py
-│   ├── recomendacao.py
-│   ├── templates/
-│   ├── static/
-│   └── banco_jogadores.db
-├── massa_dados/
-├── dados_brutos/
-├── logs/
-└── outros arquivos
----
 
 ## ⚙️ Tecnologias Utilizadas
 
