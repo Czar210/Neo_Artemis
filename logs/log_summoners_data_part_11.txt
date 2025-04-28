@@ -1,0 +1,248 @@
+2025-04-25 12:22:57,745 - INFO - PUUID for ThePack21 (euw) added successfully.
+2025-04-25 12:22:58,894 - INFO - PUUID for Fel (na) added successfully.
+2025-04-25 12:23:00,714 - INFO - PUUID for Ahsokaa (euw) added successfully.
+2025-04-25 12:23:01,442 - INFO - PUUID for gaman (jp) added successfully.
+2025-04-25 12:23:02,538 - INFO - PUUID for KAWAII BAAAKA (euw) added successfully.
+2025-04-25 12:23:32,804 - INFO - PUUID for ThePack21 (euw) added successfully.
+2025-04-25 12:23:33,980 - INFO - PUUID for Fel (na) added successfully.
+2025-04-25 12:23:35,859 - INFO - PUUID for Ahsokaa (euw) added successfully.
+2025-04-25 12:23:36,555 - INFO - PUUID for gaman (jp) added successfully.
+2025-04-25 12:23:37,627 - INFO - PUUID for KAWAII BAAAKA (euw) added successfully.
+2025-04-25 12:23:38,885 - INFO - PUUID for LFT Myunseo (kr) added successfully.
+2025-04-25 12:23:40,045 - INFO - PUUID for bot gap victim (euw) added successfully.
+2025-04-25 12:23:41,225 - INFO - PUUID for GLB Skarnerotto (euw) added successfully.
+2025-04-25 12:23:42,534 - INFO - PUUID for Razer (jp) added successfully.
+2025-04-25 12:23:43,717 - INFO - PUUID for cute xin (kr) added successfully.
+2025-04-25 12:23:44,804 - INFO - PUUID for EpicDistortion (na) added successfully.
+2025-04-25 12:23:46,007 - INFO - PUUID for PILLSIS (eune) added successfully.
+2025-04-25 12:23:47,217 - INFO - PUUID for Guigas (br) added successfully.
+2025-04-25 12:23:48,618 - INFO - PUUID for PALKIOGRE2 (euw) added successfully.
+2025-04-25 12:23:49,648 - INFO - PUUID for Aurelion Sol God (euw) added successfully.
+2025-04-25 12:23:50,804 - INFO - PUUID for FVN Akihito (br) added successfully.
+2025-04-25 12:23:52,001 - INFO - PUUID for Albert Camus (br) added successfully.
+2025-04-25 12:23:53,204 - INFO - PUUID for Maestria oculta (br) added successfully.
+2025-04-25 12:23:54,459 - INFO - PUUID for Awtee (eune) added successfully.
+2025-04-25 12:23:56,208 - INFO - PUUID for JiPPii (na) added successfully.
+2025-04-25 12:23:56,846 - INFO - PUUID for KayleMeMaybe (eune) added successfully.
+2025-04-25 12:23:58,019 - INFO - PUUID for DonTouchMyBells (eune) added successfully.
+2025-04-25 12:23:59,199 - INFO - PUUID for VIGGRR (na) added successfully.
+2025-04-25 12:24:00,424 - INFO - PUUID for Mayipsum (euw) added successfully.
+2025-04-25 12:24:01,608 - INFO - PUUID for AkiraSpeedRacer (na) added successfully.
+2025-04-25 12:24:02,823 - INFO - PUUID for jamican banana (na) added successfully.
+2025-04-25 12:24:04,028 - INFO - PUUID for Anekc (eune) added successfully.
+2025-04-25 12:24:05,268 - INFO - PUUID for ScarleyQuinn (ru) added successfully.
+2025-04-25 12:24:06,524 - INFO - PUUID for ckckc (jp) added successfully.
+2025-04-25 12:24:08,270 - INFO - PUUID for IvernDevil (euw) added successfully.
+2025-04-25 12:24:08,825 - INFO - PUUID for Cache (lan) added successfully.
+2025-04-25 12:24:10,028 - INFO - PUUID for GeorgeBushcamp (na) added successfully.
+2025-04-25 12:24:11,257 - INFO - PUUID for Tommy Angelo (euw) added successfully.
+2025-04-25 12:24:12,439 - INFO - PUUID for DavidTheGuy (na) added successfully.
+2025-04-25 12:24:13,641 - INFO - PUUID for Pai do Verde (br) added successfully.
+2025-04-25 12:24:14,839 - INFO - PUUID for neverbrokeagain (br) added successfully.
+2025-04-25 12:24:16,056 - INFO - PUUID for fritz (euw) added successfully.
+2025-04-25 12:24:17,240 - INFO - PUUID for apolo (br) added successfully.
+2025-04-25 12:24:18,411 - INFO - PUUID for UGLY BASTARD (na) added successfully.
+2025-04-25 12:24:20,227 - INFO - PUUID for MEOC (lan) added successfully.
+2025-04-25 12:24:20,946 - INFO - PUUID for sanspareil4 (kr) added successfully.
+2025-04-25 12:24:22,074 - INFO - PUUID for Scolietis (na) added successfully.
+2025-04-25 12:24:23,245 - INFO - PUUID for Pernix (lan) added successfully.
+2025-04-25 12:24:24,462 - INFO - PUUID for meiyo (tr) added successfully.
+2025-04-25 12:24:25,755 - INFO - PUUID for gaman (jp) added successfully.
+2025-04-25 12:24:26,823 - INFO - PUUID for antonygs (las) added successfully.
+2025-04-25 12:24:28,093 - INFO - PUUID for mierenneuker (euw) added successfully.
+2025-04-25 12:24:29,223 - INFO - PUUID for no ego passion (br) added successfully.
+2025-04-25 12:24:30,465 - INFO - PUUID for Yami (euw) added successfully.
+2025-04-25 12:24:31,647 - INFO - PUUID for FartInspector (euw) added successfully.
+2025-04-25 12:24:32,858 - INFO - PUUID for IvernGod (euw) added successfully.
+2025-04-25 12:24:34,046 - INFO - PUUID for beastmaster (na) added successfully.
+2025-04-25 12:24:35,233 - INFO - PUUID for Ivern de Moto (br) added successfully.
+2025-04-25 12:24:36,456 - INFO - PUUID for Usogui (euw) added successfully.
+2025-04-25 12:24:37,753 - INFO - PUUID for Observer T (kr) added successfully.
+2025-04-25 12:24:38,948 - INFO - PUUID for Light in August (kr) added successfully.
+2025-04-25 12:24:40,016 - INFO - PUUID for Tucolini (las) added successfully.
+2025-04-25 12:24:41,380 - INFO - PUUID for Reminisce (jp) added successfully.
+2025-04-25 12:24:42,485 - INFO - PUUID for Eilay (eune) added successfully.
+2025-04-25 12:24:43,645 - INFO - PUUID for fut pl1 2 kk (euw) added successfully.
+2025-04-25 12:24:44,828 - INFO - PUUID for Friend of Forest (na) added successfully.
+2025-04-25 12:24:46,059 - INFO - PUUID for Joshihammer (euw) added successfully.
+2025-04-25 12:24:47,296 - INFO - PUUID for Korean Ivern (eune) added successfully.
+2025-04-25 12:24:49,108 - INFO - PUUID for Red block (euw) added successfully.
+2025-04-25 12:24:49,652 - INFO - PUUID for ARBOL VAAAAAA (euw) added successfully.
+2025-04-25 12:24:50,856 - INFO - PUUID for 9 minors 1 ivern (euw) added successfully.
+2025-04-25 12:24:52,162 - INFO - PUUID for DawnGardener (kr) added successfully.
+2025-04-25 12:24:53,342 - INFO - PUUID for ImaMango (euw) added successfully.
+2025-04-25 12:24:54,458 - INFO - PUUID for kidbeatz (na) added successfully.
+2025-04-25 12:24:55,680 - INFO - PUUID for Samuelz (euw) added successfully.
+2025-04-25 12:24:56,881 - INFO - PUUID for SnusTobak (euw) added successfully.
+2025-04-25 12:24:58,071 - INFO - PUUID for ivern kitten (na) added successfully.
+2025-04-25 12:24:59,290 - INFO - PUUID for Xeero (na) added successfully.
+2025-04-25 12:25:00,431 - INFO - PUUID for merrjerry (na) added successfully.
+2025-04-25 12:25:01,786 - INFO - PUUID for NoRoo (kr) added successfully.
+2025-04-25 12:25:02,870 - INFO - PUUID for Nicktron is Iove (eune) added successfully.
+2025-04-25 12:25:04,053 - INFO - PUUID for garbocan (na) added successfully.
+2025-04-25 12:25:05,280 - INFO - PUUID for 1Natth (las) added successfully.
+2025-04-25 12:25:06,527 - INFO - PUUID for Koscamton (euw) added successfully.
+2025-04-25 12:25:07,676 - INFO - PUUID for ReportMySupport (eune) added successfully.
+2025-04-25 12:25:08,883 - INFO - PUUID for keep walking (eune) added successfully.
+2025-04-25 12:25:10,075 - INFO - PUUID for i love bad girls (euw) added successfully.
+2025-04-25 12:25:11,433 - INFO - PUUID for Trivial (kr) added successfully.
+2025-04-25 12:25:12,507 - INFO - PUUID for Hage (euw) added successfully.
+2025-04-25 12:25:13,689 - INFO - PUUID for Tofu (tr) added successfully.
+2025-04-25 12:25:14,846 - INFO - PUUID for soy moco (las) added successfully.
+2025-04-25 12:25:16,349 - INFO - PUUID for ActuallyLetsOpen (euw) added successfully.
+2025-04-25 12:25:37,313 - INFO - PUUID for Yldz (euw) added successfully.
+2025-04-25 12:25:44,656 - INFO - PUUID for zmywara666 (eune) added successfully.
+2025-04-25 12:25:44,949 - INFO - PUUID for Desti (euw) added successfully.
+2025-04-25 12:25:46,152 - INFO - PUUID for KokoLoL (na) added successfully.
+2025-04-25 12:25:47,370 - INFO - PUUID for Empoe (eune) added successfully.
+2025-04-25 12:25:48,547 - INFO - PUUID for Ustanak (las) added successfully.
+2025-04-25 12:25:49,745 - INFO - PUUID for les moy xram (euw) added successfully.
+2025-04-25 12:25:50,911 - INFO - PUUID for JovanCastillo (na) added successfully.
+2025-04-25 12:25:52,136 - INFO - PUUID for Mayday (na) added successfully.
+2025-04-25 12:25:53,359 - INFO - PUUID for exzoreren (euw) added successfully.
+2025-04-25 12:25:54,550 - INFO - PUUID for Ekkopi (na) added successfully.
+2025-04-25 12:25:55,751 - INFO - PUUID for togepi (na) added successfully.
+2025-04-25 12:25:56,990 - INFO - PUUID for Jungle Teh Bekri (euw) added successfully.
+2025-04-25 12:25:58,253 - INFO - PUUID for beikaku1 (kr) added successfully.
+2025-04-25 12:25:59,358 - INFO - PUUID for you borgor xd (euw) added successfully.
+2025-04-25 12:26:00,603 - INFO - PUUID for Top de Rek (br) added successfully.
+2025-04-25 12:26:01,755 - INFO - PUUID for Tutu (br) added successfully.
+2025-04-25 12:26:03,879 - INFO - PUUID for love story (kr) added successfully.
+2025-04-25 12:26:04,176 - INFO - PUUID for RekSaiyajin (euw) added successfully.
+2025-04-25 12:26:05,406 - INFO - PUUID for dia 4 gatekeeper (tr) added successfully.
+2025-04-25 12:26:06,568 - INFO - PUUID for wdywfm (las) added successfully.
+2025-04-25 12:26:07,777 - INFO - PUUID for Levent 4cs pm XD (euw) added successfully.
+2025-04-25 12:26:08,981 - INFO - PUUID for el topo (na) added successfully.
+2025-04-25 12:26:10,192 - INFO - PUUID for Reuss (las) added successfully.
+2025-04-25 12:26:11,373 - INFO - PUUID for SCGL (euw) added successfully.
+2025-04-25 12:26:12,574 - INFO - PUUID for Mojie23 (euw) added successfully.
+2025-04-25 12:26:13,771 - INFO - PUUID for Kross (na) added successfully.
+2025-04-25 12:26:14,977 - INFO - PUUID for Narua (euw) added successfully.
+2025-04-25 12:26:16,255 - INFO - PUUID for Vnas (kr) added successfully.
+2025-04-25 12:26:17,353 - INFO - PUUID for NDJ (na) added successfully.
+2025-04-25 12:26:18,578 - INFO - PUUID for Wreck Sigh (eune) added successfully.
+2025-04-25 12:26:19,785 - INFO - PUUID for Hatts (las) added successfully.
+2025-04-25 12:26:20,968 - INFO - PUUID for punkinpancakes (na) added successfully.
+2025-04-25 12:26:22,271 - INFO - PUUID for hqwe (kr) added successfully.
+2025-04-25 12:26:23,373 - INFO - PUUID for 1Besty (euw) added successfully.
+2025-04-25 12:26:24,581 - INFO - PUUID for DisabledRek (euw) added successfully.
+2025-04-25 12:26:25,778 - INFO - PUUID for twtv mammon (eune) added successfully.
+2025-04-25 12:26:27,019 - INFO - PUUID for Sanjaya z Lehii (euw) added successfully.
+2025-04-25 12:26:28,189 - INFO - PUUID for War Of Egos (euw) added successfully.
+2025-04-25 12:26:29,557 - INFO - PUUID for Predator (kr) added successfully.
+2025-04-25 12:26:30,558 - INFO - PUUID for TheSkyfallsforme (na) added successfully.
+2025-04-25 12:26:31,757 - INFO - PUUID for Solomon (na) added successfully.
+2025-04-25 12:26:32,956 - INFO - PUUID for Danio (las) added successfully.
+2025-04-25 12:26:34,194 - INFO - PUUID for DayuTolkoGnomam (euw) added successfully.
+2025-04-25 12:26:35,413 - INFO - PUUID for tchokez (euw) added successfully.
+2025-04-25 12:26:36,575 - INFO - PUUID for TENGRIR (tr) added successfully.
+2025-04-25 12:26:37,781 - INFO - PUUID for SaycO5 (lan) added successfully.
+2025-04-25 12:26:38,994 - INFO - PUUID for Will (euw) added successfully.
+2025-04-25 12:26:40,197 - INFO - PUUID for MARCINATOR (eune) added successfully.
+2025-04-25 12:26:41,415 - INFO - PUUID for Fberg (euw) added successfully.
+2025-04-25 12:26:42,615 - INFO - PUUID for Grimmjow (tr) added successfully.
+2025-04-25 12:26:43,792 - INFO - PUUID for ImaMango (euw) added successfully.
+2025-04-25 12:26:45,215 - INFO - PUUID for Real Rakao (euw) added successfully.
+2025-04-25 12:26:46,288 - INFO - PUUID for Windy (kr) added successfully.
+2025-04-25 12:26:47,402 - INFO - PUUID for ChestbicepsS (euw) added successfully.
+2025-04-25 12:26:48,576 - INFO - PUUID for CLEDE100CALClNHA (br) added successfully.
+2025-04-25 12:26:49,924 - INFO - PUUID for Kanzaki (kr) added successfully.
+2025-04-25 12:26:50,960 - INFO - PUUID for Barron9 (na) added successfully.
+2025-04-25 12:26:52,185 - INFO - PUUID for Selected (las) added successfully.
+2025-04-25 12:26:53,391 - INFO - PUUID for ABYSS PURSUER (euw) added successfully.
+2025-04-25 12:26:54,606 - INFO - PUUID for MUITONOJODEGORDA (br) added successfully.
+2025-04-25 12:26:55,891 - INFO - PUUID for tp9 (kr) added successfully.
+2025-04-25 12:26:57,173 - INFO - PUUID for mbGvq7MsdGwQ4Yp9 (kr) added successfully.
+2025-04-25 12:26:58,205 - INFO - PUUID for gigachad820 (euw) added successfully.
+2025-04-25 12:26:59,421 - INFO - PUUID for Zheyss (las) added successfully.
+2025-04-25 12:27:00,609 - INFO - PUUID for SpinninsuGG (eune) added successfully.
+2025-04-25 12:27:01,805 - INFO - PUUID for Erukam (euw) added successfully.
+2025-04-25 12:27:02,997 - INFO - PUUID for Dansband (euw) added successfully.
+2025-04-25 12:27:04,327 - INFO - PUUID for 2813691419485984 (kr) added successfully.
+2025-04-25 12:27:05,406 - INFO - PUUID for SLIME (na) added successfully.
+2025-04-25 12:27:06,600 - INFO - PUUID for SG Thanatos (br) added successfully.
+2025-04-25 12:27:07,802 - INFO - PUUID for eXoValdo (euw) added successfully.
+2025-04-25 12:27:09,028 - INFO - PUUID for The Dylan (na) added successfully.
+2025-04-25 12:27:10,239 - INFO - PUUID for VAL 12 Bala (br) added successfully.
+2025-04-25 12:27:11,526 - INFO - PUUID for by chance (kr) added successfully.
+2025-04-25 12:27:12,612 - INFO - PUUID for Special Kay (na) added successfully.
+2025-04-25 12:27:13,839 - INFO - PUUID for Qube (na) added successfully.
+2025-04-25 12:27:14,984 - INFO - PUUID for Just Japa (br) added successfully.
+2025-04-25 12:27:16,215 - INFO - PUUID for Legachi (tr) added successfully.
+2025-04-25 12:27:17,442 - INFO - PUUID for Ukiyo (euw) added successfully.
+2025-04-25 12:27:18,610 - INFO - PUUID for Takashl (br) added successfully.
+2025-04-25 12:27:19,822 - INFO - PUUID for KTM Jiren (euw) added successfully.
+2025-04-25 12:27:21,006 - INFO - PUUID for FN FAL (las) added successfully.
+2025-04-25 12:27:22,239 - INFO - PUUID for bobik336 (euw) added successfully.
+2025-04-25 12:27:23,461 - INFO - PUUID for Shrek (eune) added successfully.
+2025-04-25 12:27:24,773 - INFO - PUUID for lastchance (kr) added successfully.
+2025-04-25 12:27:25,914 - INFO - PUUID for Bigluck (kr) added successfully.
+2025-04-25 12:27:27,038 - INFO - PUUID for INT Restin (euw) added successfully.
+2025-04-25 12:27:28,210 - INFO - PUUID for ViMyQueen (euw) added successfully.
+2025-04-25 12:27:29,434 - INFO - PUUID for BLACK CAT (las) added successfully.
+2025-04-25 12:27:30,608 - INFO - PUUID for davidvt8 (las) added successfully.
+2025-04-25 12:27:31,836 - INFO - PUUID for Sabado No Duermo (las) added successfully.
+2025-04-25 12:27:33,030 - INFO - PUUID for Suzy (eune) added successfully.
+2025-04-25 12:27:34,238 - INFO - PUUID for HeadPopper420 (euw) added successfully.
+2025-04-25 12:27:35,417 - INFO - PUUID for AnteQ7 (eune) added successfully.
+2025-04-25 12:27:36,598 - INFO - PUUID for Midkai (br) added successfully.
+2025-04-25 12:27:37,846 - INFO - PUUID for PEL Schnutel (euw) added successfully.
+2025-04-25 12:27:39,029 - INFO - PUUID for MarioMp3000 (eune) added successfully.
+2025-04-25 12:27:40,343 - INFO - PUUID for No92 (kr) added successfully.
+2025-04-25 12:27:41,616 - INFO - PUUID for Ubitt (kr) added successfully.
+2025-04-25 12:27:42,608 - INFO - PUUID for El porrito (lan) added successfully.
+2025-04-25 12:27:43,833 - INFO - PUUID for iyuke (euw) added successfully.
+2025-04-25 12:27:45,032 - INFO - PUUID for IG Rookie (euw) added successfully.
+2025-04-25 12:27:46,252 - INFO - PUUID for SusuLove (euw) added successfully.
+2025-04-25 12:27:47,521 - INFO - PUUID for MARIABECERRA FAN (euw) added successfully.
+2025-04-25 12:27:48,624 - INFO - PUUID for NeoLight (br) added successfully.
+2025-04-25 12:27:49,945 - INFO - PUUID for taliya (kr) added successfully.
+2025-04-25 12:27:51,023 - INFO - PUUID for Ferret25 (euw) added successfully.
+2025-04-25 12:27:52,213 - INFO - PUUID for toxin (tr) added successfully.
+2025-04-25 12:27:53,504 - INFO - PUUID for mannis (tr) added successfully.
+2025-04-25 12:27:54,774 - INFO - PUUID for Never ez (kr) added successfully.
+2025-04-25 12:27:55,839 - INFO - PUUID for Randal KoloMuani (euw) added successfully.
+2025-04-25 12:27:57,075 - INFO - PUUID for Zorka (euw) added successfully.
+2025-04-25 12:27:58,249 - INFO - PUUID for Jumiro (br) added successfully.
+2025-04-25 12:27:59,419 - INFO - PUUID for XiaoDanny (na) added successfully.
+2025-04-25 12:28:00,634 - INFO - PUUID for MIDKING (euw) added successfully.
+2025-04-25 12:28:01,835 - INFO - PUUID for outmind (tr) added successfully.
+2025-04-25 12:28:03,035 - INFO - PUUID for DustFate Toilet (euw) added successfully.
+2025-04-25 12:28:04,367 - INFO - PUUID for Mufasa Jungle (eune) added successfully.
+2025-04-25 12:28:05,450 - INFO - PUUID for xXnoobmidCzXx (euw) added successfully.
+2025-04-25 12:28:06,617 - INFO - PUUID for Will (na) added successfully.
+2025-04-25 12:28:07,849 - INFO - PUUID for G2 Caps (euw) added successfully.
+2025-04-25 12:28:09,057 - INFO - PUUID for Rocky Road (eune) added successfully.
+2025-04-25 12:28:10,223 - INFO - PUUID for FL LittleRet (br) added successfully.
+2025-04-25 12:28:11,445 - INFO - PUUID for noon (las) added successfully.
+2025-04-25 12:28:12,657 - INFO - PUUID for K1tava Fangirl (euw) added successfully.
+2025-04-25 12:28:13,842 - INFO - PUUID for DaBalinha777 (br) added successfully.
+2025-04-25 12:28:15,049 - INFO - PUUID for SrFakerDoCongo (br) added successfully.
+2025-04-25 12:28:16,355 - INFO - PUUID for soso (kr) added successfully.
+2025-04-25 12:28:17,439 - INFO - PUUID for NightZo (euw) added successfully.
+2025-04-25 12:28:18,637 - INFO - PUUID for Zoe 1 (lan) added successfully.
+2025-04-25 12:28:19,835 - INFO - PUUID for stoned (las) added successfully.
+2025-04-25 12:28:21,044 - INFO - PUUID for Jaehaerys I (br) added successfully.
+2025-04-25 12:28:22,341 - INFO - PUUID for taliyah (kr) added successfully.
+2025-04-25 12:28:23,507 - INFO - PUUID for DustFate (euw) added successfully.
+2025-04-25 12:28:24,796 - INFO - PUUID for zzm1ng (euw) added successfully.
+2025-04-25 12:28:25,947 - INFO - PUUID for huanye (kr) added successfully.
+2025-04-25 12:28:27,069 - INFO - PUUID for Jakimbo (na) added successfully.
+2025-04-25 12:28:28,223 - INFO - PUUID for Raycovel (na) added successfully.
+2025-04-25 12:28:29,435 - INFO - PUUID for Altyl (na) added successfully.
+2025-04-25 12:28:30,695 - INFO - PUUID for Little Giant (euw) added successfully.
+2025-04-25 12:28:31,849 - INFO - PUUID for Falco Zen (euw) added successfully.
+2025-04-25 12:28:33,059 - INFO - PUUID for Ashborn (na) added successfully.
+2025-04-25 12:28:34,262 - INFO - PUUID for Masutadooo (euw) added successfully.
+2025-04-25 12:28:35,436 - INFO - PUUID for Sofia DiNozzo (las) added successfully.
+2025-04-25 12:28:36,654 - INFO - PUUID for Qalbestyna (euw) added successfully.
+2025-04-25 12:28:37,856 - INFO - PUUID for vivienne westwoo (na) added successfully.
+2025-04-25 12:28:39,059 - INFO - PUUID for fantomisto (euw) added successfully.
+2025-04-25 12:28:40,266 - INFO - PUUID for tempmonk (euw) added successfully.
+2025-04-25 12:28:41,482 - INFO - PUUID for Hjustons (euw) added successfully.
+2025-04-25 12:28:42,669 - INFO - PUUID for DenX (lan) added successfully.
+2025-04-25 12:28:43,955 - INFO - PUUID for WX xnylh7142 (kr) added successfully.
+2025-04-25 12:28:45,047 - INFO - PUUID for SOUSBALLON (euw) added successfully.
+2025-04-25 12:28:46,285 - INFO - PUUID for Asa mitaka (euw) added successfully.
+2025-04-25 12:28:47,471 - INFO - PUUID for Bissejr15 (euw) added successfully.
+2025-04-25 12:28:47,476 - INFO - File updated and saved successfully.

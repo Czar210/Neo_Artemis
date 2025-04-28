@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tabela de Scores dos Campeões</title>
+
+    <!-- Bootstrap 5 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        body {
+            background-color: #f5f7fa;
+            padding-top: 2rem;
+        }
+        .table-responsive {
+            margin-top: 2rem;
+        }
+        #busca {
+            margin-bottom: 1rem;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+
+    <h1 class="text-center mb-4">Tabela de Scores Médios dos Campeões</h1>
+
+    <input type="text" id="busca" class="form-control" placeholder="🔎 Buscar campeão...">
+
+    <div class="table-responsive">
+        <table id="tabela" class="table table-striped table-bordered">
+            <thead class="table-dark">
+                <tr>
+                    <th>Campeão</th>
+                    <th>Agressividade</th>
+                    <th>Controle de Mapa</th>
+                    <th>Eficiência de Recursos</th>
+                    <th>Pressão em Estruturas</th>
+                    <th>Sustentação e Sobrevivência</th>
+                    <th>Impacto Utilitário</th>
+                    <th>Impacto no Early Game</th>
+                    <th>Controle de Objetivos</th>
+                </tr>
+            </thead>
+            <tbody>
+                {% for campeao in campeoes %}
+                <tr>
+                    <td>{{ campeao['championName'] }}</td>
+                    <td>{{ campeao['Agressividade']|default(0)|round(2) }}</td>
+                    <td>{{ campeao['Controle de Mapa']|default(0)|round(2) }}</td>
+                    <td>{{ campeao['Eficiência de Recursos']|default(0)|round(2) }}</td>
+                    <td>{{ campeao['Pressão em Estruturas']|default(0)|round(2) }}</td>
+                    <td>{{ campeao['Sustentação e Sobrevivência']|default(0)|round(2) }}</td>
+                    <td>{{ campeao['Impacto Utilitário']|default(0)|round(2) }}</td>
+                    <td>{{ campeao['Impacto no Early Game']|default(0)|round(2) }}</td>
+                    <td>{{ campeao['Controle de Objetivos']|default(0)|round(2) }}</td>
+                </tr>
+                {% endfor %}
+            </tbody>
+        </table>
+    </div>
+
+    <div class="text-center mt-4">
+        <a href="/" class="btn btn-secondary">🔙 Voltar ao Início</a>
+    </div>
+
+</div>
+
+<!-- Bootstrap Bundle -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+<script>
+    const buscaInput = document.getElementById('busca');
+    const tabela = document.getElementById('tabela').getElementsByTagName('tbody')[0];
+
+    buscaInput.addEventListener('keyup', function() {
+        const filtro = buscaInput.value.toLowerCase();
+        const linhas = tabela.getElementsByTagName('tr');
+
+        for (let i = 0; i < linhas.length; i++) {
+            let encontrado = false;
+            const colunas = linhas[i].getElementsByTagName('td');
+            if (colunas.length > 0) {
+                const texto = colunas[0].textContent.toLowerCase();
+                if (texto.indexOf(filtro) > -1) {
+                    encontrado = true;
+                }
+            }
+            linhas[i].style.display = encontrado ? '' : 'none';
+        }
+    });
+</script>
+
+</body>
+</html>

@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Sobre o Projeto - Análise de Junglers</title>
+
+    <!-- Bootstrap 5 -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+
+    <style>
+        body {
+            background-color: #f5f7fa;
+            padding-top: 2rem;
+        }
+        .sobre-container {
+            background: white;
+            padding: 2rem;
+            border-radius: 1rem;
+            box-shadow: 0px 4px 12px rgba(0, 0, 0, 0.1);
+            margin-bottom: 2rem;
+        }
+        .section-title {
+            margin-top: 2rem;
+            font-weight: bold;
+        }
+        .footer-btns {
+            margin-top: 3rem;
+            text-align: center;
+        }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <div class="sobre-container">
+        <h1 class="text-center mb-4">📚 Sobre o Projeto</h1>
+
+        <p><strong>Nome do Projeto:</strong> Análise de Estilos de Junglers no League of Legends</p>
+
+        <p><strong>Objetivo:</strong> 
+            Desenvolver uma ferramenta capaz de analisar o estilo de jogo dos junglers,
+            neutralizando o impacto do campeão escolhido, para recomendar campeões que maximizem seus pontos fortes.
+        </p>
+
+        <h3 class="section-title">⚙️ Como o Projeto Funciona</h3>
+        <ul>
+            <li>Coletamos dados reais da API da Riot Games (partidas ranqueadas solo/duo — fila 420).</li>
+            <li>Filtramos partidas para qualidade: sem AFKs, sem rendições precoces, e junglers com Smite.</li>
+            <li>Extraímos mais de 50 estatísticas individuais por partida (kills, wards, farm, objetivos).</li>
+            <li>Normalizamos e refinamos os dados para criar 8 Scores Compostos:</li>
+            <ul>
+                <li><strong>Agressividade</strong></li>
+                <li><strong>Controle de Mapa</strong></li>
+                <li><strong>Eficiência de Recursos</strong></li>
+                <li><strong>Pressão em Estruturas</strong></li>
+                <li><strong>Sustentação e Sobrevivência</strong></li>
+                <li><strong>Impacto Utilitário</strong></li>
+                <li><strong>Impacto no Early Game</strong></li>
+                <li><strong>Controle de Objetivos</strong></li>
+            </ul>
+            <li>Comparamos o perfil do jogador com os perfis médios dos campeões usando Similaridade de Cosseno.</li>
+            <li>Geramos recomendações de campeões mais compatíveis com o estilo real do jogador.</li>
+            <li>Implementamos um sistema de Quiz para novos usuários sem conta no LoL poderem estimar seu estilo.</li>
+        </ul>
+
+        <h3 class="section-title">👨‍💻 Tecnologias Utilizadas</h3>
+        <ul>
+            <li>Python 3</li>
+            <li>Flask (API e Front-End)</li>
+            <li>SQLite (Banco de Dados)</li>
+            <li>Pandas e Numpy (Processamento de dados)</li>
+            <li>Chart.js (Gráficos Radar)</li>
+            <li>Bootstrap 5 (Estilização Front-End)</li>
+        </ul>
+
+        <h3 class="section-title">👥 Equipe do Projeto</h3>
+        <ul>
+            <li><strong>André Messina</strong> — "Bruxo dos Dados", responsável pela integração de APIs, banco de dados, roteamento Flask e estética geral.</li>
+            <li><strong>César Sibila</strong> — "Gênio da Lâmpada", desenvolvedor dos cálculos estatísticos e da modelagem dos Scores compostos.</li>
+            <li><strong>Takida</strong> — "Escudeiro Fiel", pensador crítico, auxiliou na seleção de variáveis, revisão de decisões e estruturação lógica.</li>
+            <li><strong>Willian</strong> — Apoio geral, suporte e validação durante o andamento do projeto.</li>
+        </ul>
+
+        <h3 class="section-title">📈 Metodologia Aplicada (CRISP-DM)</h3>
+        <ul>
+            <li><strong>Entendimento do Problema</strong>: Analisar estilos de junglers de forma neutra.</li>
+            <li><strong>Coleta de Dados</strong>: API da Riot Games, filtragem de qualidade.</li>
+            <li><strong>Preparação dos Dados</strong>: Normalização, cálculo de scores compostos.</li>
+            <li><strong>Modelagem</strong>: Similaridade de vetores, Recomendações.</li>
+            <li><strong>Deploy</strong>: Sistema Web responsivo via Flask.</li>
+        </ul>
+
+        <div class="footer-btns">
+            <a href="/" class="btn btn-primary">🏠 Voltar ao Início</a>
+            <a href="/quiz" class="btn btn-success">🧠 Fazer o Quiz</a>
+            <a href="/tabela_campeoes" class="btn btn-info">📚 Ver Tabela de Campeões</a>
+        </div>
+
+    </div>
+</div>
+
+<!-- Bootstrap Bundle -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+
+</body>
+</html>
