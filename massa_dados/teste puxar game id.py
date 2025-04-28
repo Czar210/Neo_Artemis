@@ -4,7 +4,7 @@ import time
 # ==========================
 # CONFIGURAÇÕES DE TESTE
 # ==========================
-api_key = "RGAPI-41c23279-637e-4820-99ce-af5011dffe8d"
+api_key = "your_key"
 summoner_name = "Zaras"
 tag_line = "0210"
 
