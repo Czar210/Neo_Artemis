@@ -10,7 +10,8 @@ from dotenv import load_dotenv
 # Configurações
 # ============================
 BASE_URL = "http://localhost:5000"
-DB_NAME = "banco_jogadores.db"
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+DB_NAME = os.path.join(BASE_DIR, "banco_jogadores.db")
 
 SUMMONER_NAME = "FURIA Tatu"  # <- Muda conforme necessário
 TAG_LINE = "10y"

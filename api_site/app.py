@@ -20,7 +20,7 @@ app = Flask(__name__)
 # Caminho para o banco
 BASE_DIR = os.path.dirname(__file__)
 DB_NAME = os.path.join(BASE_DIR, 'banco_jogadores.db')
-
+ 
 # =============================
 # Rotas da API (JSON)
 # =============================
